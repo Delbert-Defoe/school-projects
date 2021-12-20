@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1588616013 source:c:\users\cheezee\documents\cpp programs\assignment_manger_1\manager.cpp
+	"Manager.h"
+	<iostream>
+	<windows.h>
+	<iomanip>
+	<fstream>
+	<string>
+	<sstream>
+	<cctype>
+
+1588617228 c:\users\cheezee\documents\cpp programs\assignment_manger_1\manager.h
+	<iostream>
+	<windows.h>
+	<iomanip>
+	<fstream>
+	<string>
+	<sstream>
+	<cctype>
+
+1588739826 source:c:\users\cheezee\documents\cpp programs\assignment_manger_1\managerimp.cpp
+	"Manager.h"
+	<iostream>
+	<windows.h>
+	<iomanip>
+	<fstream>
+	<string>
+	<sstream>
+	<cctype>
+

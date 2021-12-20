@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1587137550 source:c:\users\cheezee\documents\cpp programs\lab5\books.cpp
+	"Books.h"
+	<iostream>
+	<windows.h>
+
+1587085709 c:\users\cheezee\documents\cpp programs\lab5\books.h
+	<iostream>
+
+1587145142 source:c:\users\cheezee\documents\cpp programs\lab5\main.cpp
+	"Books.h"
+	<iostream>
+	<windows.h>
+
